@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="375f3fce-1fa0-4a86-9019-d0ea7f456149" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/chapter1/BoxingAndUnboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/chapter1/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/chapter1/GenericMethodsAndVarargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/chapter1/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/chapter1/Intro.java" afterDir="false" />
+    <list default="true" id="375f3fce-1fa0-4a86-9019-d0ea7f456149" name="Changes" comment="Finish Chapter 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/chapter1/GenericMethodsAndVarargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/chapter1/GenericMethodsAndVarargs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659779569057</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finish Chapter 1">
+      <created>1659809470462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659809470462</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +164,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Finish Chapter 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Chapter 1" />
   </component>
 </project>
