@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="375f3fce-1fa0-4a86-9019-d0ea7f456149" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Generics-And-Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Application.java" afterDir="false" />
+    <list default="true" id="375f3fce-1fa0-4a86-9019-d0ea7f456149" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/chapter1/BoxingAndUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/chapter1/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/chapter1/GenericMethodsAndVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/chapter1/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/chapter1/Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +42,13 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Application" />
+  <component name="RunManager" selected="Application.main.chapter1.GenericMethodsAndVarargs">
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.chapter1.ForEachLoop" />
       <module name="Java-Generics-And-Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="main.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,9 +56,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.chapter1.BoxingAndUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.chapter1.BoxingAndUnboxing" />
+      <module name="Java-Generics-And-Collections" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.chapter1.GenericMethodsAndVarargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.chapter1.GenericMethodsAndVarargs" />
+      <module name="Java-Generics-And-Collections" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.chapter1.Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.chapter1.Generics" />
+      <module name="Java-Generics-And-Collections" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.chapter1.Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.chapter1.Intro" />
+      <module name="Java-Generics-And-Collections" />
+      <option name="VM_PARAMETERS" value="-ea " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ForEachLoop" />
+      <item itemvalue="Application.main.chapter1.GenericMethodsAndVarargs" />
+      <item itemvalue="Application.main.chapter1.BoxingAndUnboxing" />
+      <item itemvalue="Application.main.chapter1.Generics" />
+      <item itemvalue="Application.main.chapter1.Intro" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.main.chapter1.GenericMethodsAndVarargs" />
+        <item itemvalue="Application.ForEachLoop" />
+        <item itemvalue="Application.main.chapter1.BoxingAndUnboxing" />
+        <item itemvalue="Application.main.chapter1.Generics" />
+        <item itemvalue="Application.main.chapter1.Intro" />
       </list>
     </recent_temporary>
   </component>
@@ -72,6 +138,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659779291031</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1659779569057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659779569057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
