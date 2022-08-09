@@ -1,4 +1,4 @@
-package main.chapter1;
+package main.Chapter1;
 
 import java.util.Arrays;
 import java.util.Iterator;
