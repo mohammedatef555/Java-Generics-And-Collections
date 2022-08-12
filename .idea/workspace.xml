@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="375f3fce-1fa0-4a86-9019-d0ea7f456149" name="Changes" comment="Finished Reading Chapter 2. Subtyping and Wildcards">
-      <change afterPath="$PROJECT_DIR$/src/main/Chapter3/ComparableInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Chapter3/ComparableMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Chapter3/ComparatorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Chapter3/FruityExample/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Chapter3/FruityExample/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Chapter3/FruityExample/Orange.java" afterDir="false" />
+    <list default="true" id="375f3fce-1fa0-4a86-9019-d0ea7f456149" name="Changes" comment="Finished Reading Chapter 3">
+      <change afterPath="$PROJECT_DIR$/src/main/Chapter4/DeclaringConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Chapter4/StaticMembers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ComparatorInterface">
+  <component name="RunManager" selected="Application.DeclaringConstructors">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Application" />
       <module name="Java-Generics-And-Collections" />
@@ -85,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildcardsWithExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Chapter2.WildcardsWithExtends" />
+    <configuration name="DeclaringConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Chapter4.DeclaringConstructors" />
       <module name="Java-Generics-And-Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.Chapter2.*" />
+          <option name="PATTERN" value="main.Chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildcardsWithSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Chapter2.WildcardsWithSuper" />
+    <configuration name="StaticMembers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Chapter4.StaticMembers" />
       <module name="Java-Generics-And-Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.Chapter2.*" />
+          <option name="PATTERN" value="main.Chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,18 +108,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ComparatorInterface" />
+      <item itemvalue="Application.DeclaringConstructors" />
+      <item itemvalue="Application.StaticMembers" />
       <item itemvalue="Application.ComparableInterface" />
-      <item itemvalue="Application.WildcardsWithExtends" />
-      <item itemvalue="Application.WildcardsWithSuper" />
       <item itemvalue="Application.Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeclaringConstructors" />
+        <item itemvalue="Application.StaticMembers" />
         <item itemvalue="Application.ComparatorInterface" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.ComparableInterface" />
-        <item itemvalue="Application.WildcardsWithSuper" />
-        <item itemvalue="Application.WildcardsWithExtends" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660031258927</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished Reading Chapter 3">
+      <created>1660326095049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660326095049</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +185,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Finish Chapter 1" />
     <MESSAGE value="Finished Reading Chapter 2. Subtyping and Wildcards" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Reading Chapter 2. Subtyping and Wildcards" />
+    <MESSAGE value="Finished Reading Chapter 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Reading Chapter 3" />
   </component>
 </project>
